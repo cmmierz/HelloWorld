@@ -1,7 +1,7 @@
 import random # Importing the random module to generate random numbers
 
 # Define a function (a reusable block of code) for the number guessing game
-def number_guessing_game():
+def number_guessing_game(): #This is a function declaration
     print("Welcome to the Number Guessing Game!") # This just prints some welcome text in the terminal 
     print("I'm thinking of a number between 1 and 100.")
 
